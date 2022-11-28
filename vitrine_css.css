@@ -1,0 +1,46 @@
+#letra_maior{
+    font-size: 30px;
+}
+#header1{
+    background-color: rgba(249, 21, 0);
+    color: black;
+    font-family: Impact;
+    font-size: large;
+}
+#header2{
+    background-color: rgba(218, 211, 55);
+    color: black;
+    font-family: Impact;
+    font-size: large;
+    padding-top: 15px;
+}
+#busca_bar{
+    padding-top: 9%;
+    padding-bottom: 1%;
+}
+#busca_btn{
+    background-color: rgba(218, 211, 55);
+    border: 0;
+    border-radius: 10%;
+}
+#perfil_btn{
+    margin-top: 65px;
+    margin-bottom: 65px;
+    background-color: transparent;
+    border: 0;
+}
+#logo{
+    margin-bottom: 45px;
+}
+#menu_btn{
+    background-color: transparent;
+    border: 0;
+}
+#footer1{
+    background-color: rgba(249, 21, 0);
+    color: black;
+    font-family: Impact;
+    font-size: large;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
